@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP build/C#/SQL projects
 - 😄 Pronouns: he/him
-- 📫 How to reach me: https://twitter.com/dalehirt
+- 📫 How to reach me: https://about.me/dalehirt
