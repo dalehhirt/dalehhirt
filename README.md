@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Dale - I do DBA/Devops Engineering.  
+I'm a sucker for source control, databases, guitars, and my kids.
 
 <!--
 **dalehhirt/dalehhirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on PHP build/C#/SQL projects
+- 😄 Pronouns: he/him
+- 📫 How to reach me: https://twitter.com/dalehirt
