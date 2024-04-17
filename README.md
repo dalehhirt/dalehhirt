@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on PHP build/C#/SQL projects
+- 🔭 I’m currently working on Azure Devops Yaml/C#/SQL projects
 - 😄 Pronouns: he/him
 - 📫 How to reach me: https://about.me/dalehirt
